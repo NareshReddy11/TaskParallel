@@ -1,0 +1,7 @@
+F:\c#.net\TaskParlle\TaskParlle\bin\Debug\TaskParlle.exe.config
+F:\c#.net\TaskParlle\TaskParlle\bin\Debug\TaskParlle.exe
+F:\c#.net\TaskParlle\TaskParlle\bin\Debug\TaskParlle.pdb
+F:\c#.net\TaskParlle\TaskParlle\obj\Debug\TaskParlle.csprojAssemblyReference.cache
+F:\c#.net\TaskParlle\TaskParlle\obj\Debug\TaskParlle.csproj.CoreCompileInputs.cache
+F:\c#.net\TaskParlle\TaskParlle\obj\Debug\TaskParlle.exe
+F:\c#.net\TaskParlle\TaskParlle\obj\Debug\TaskParlle.pdb
